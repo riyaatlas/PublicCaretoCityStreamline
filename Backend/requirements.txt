@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Flask-JWT-Extended
+Flask-SQLAlchemy
+requests
+scikit-learn
+pandas
+nltk
+textblob
+joblib

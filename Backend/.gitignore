@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment folders
+env/
+venv/
+.venv/
+
+# Flask / Python specific
+instance/
+*.db
+
+# IDE-specific
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
